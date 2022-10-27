@@ -68,9 +68,11 @@ footer {
     }
     
     picture.profile img {
-        width: 50%;
+        width: 40%;
         float: left;
-        margin-right: 2em;
+        margin-right: 2vw;
+        margin-left: 2vw;
+        margin-top: 2vw;
     }
     
 }
